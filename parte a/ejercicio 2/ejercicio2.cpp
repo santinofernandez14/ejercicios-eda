@@ -12,6 +12,6 @@ int main(){
 	
 	cout<<"el precio del producto con iva es "<<iva;
 	
-	
+	return 0;
 	
 }

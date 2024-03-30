@@ -18,4 +18,7 @@ int main(){
 	}while(num!=0);
 	
 		cout<<"\n la cantidad de numeros ingresados es " <<cont<<endl;
+		
+		
+		return 0;
 }
