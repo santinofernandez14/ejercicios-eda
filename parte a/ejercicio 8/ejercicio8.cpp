@@ -11,9 +11,9 @@ int main(){
 
 
 	
-	cout<< "ingrese la cantidad de alumnos "; cin>> nota1;
-	cout<< "ingrese la cantidad de alumnos "; cin>> nota2;
-	cout<< "ingrese la cantidad de alumnos "; cin>> nota3;
+	cout<< "ingrese las notas "; cin>> nota1;
+	cout<< "ingrese las notas "; cin>> nota2;
+	cout<< "ingrese las notas "; cin>> nota3;
 	
 	nota1=nota1*0.30;
 	nota2=nota2*0.60;
